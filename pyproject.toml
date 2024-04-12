@@ -1,0 +1,19 @@
+[project]
+name = "st24_MLinMS"
+version = "0.1.0"
+description = "Machine Learning in Materials Science Excercise"
+authors = [
+    {name = "Christopher Kuenneth", email = "christopher.kuenneth@uni-bayreuth.de"},
+]
+dependencies = [
+    "ipykernel>=6.29.4",
+    "matplotlib>=3.8.4",
+    "numpy>=1.26.4",
+]
+requires-python = "==3.10.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
