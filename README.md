@@ -9,7 +9,7 @@ I use [PDM](https://github.com/pdm-project/pdm/) for managing the Python depende
 Notes: 
 
 - Some notebooks come with buttons to directly run the notebooks in [Google Colab](https://colab.research.google.com/)
-- Run all notebooks in you own VSCode 
+- Run all notebooks in your own VSCode 
 
 
 
@@ -17,4 +17,3 @@ Notes:
 
 1. Find out how good you are at Python programming [here](1_exercise/evaluate_python_skills.ipynb)
 1. Use LLMs as you second hand and second mind
-2. Spin up your own LLM
