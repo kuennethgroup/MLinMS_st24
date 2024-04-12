@@ -1,5 +1,7 @@
 # "Machine Learning in Materials Science" course exercises, instructed by Christopher Kuenneth during the Summer Term 2024 at the University of Bayreuth.
 
+<img src="files/logo.webp" alt="drawing" style="width:300px;"/>
+
 
 I use [PDM](https://github.com/pdm-project/pdm/) for managing the Python dependencies. 
 
