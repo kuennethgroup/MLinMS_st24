@@ -16,4 +16,5 @@ Notes:
 ## Exercise 1
 
 1. Find out how good you are at Python programming [here](1_exercise/evaluate_python_skills.ipynb)
-1. Use LLMs as you second hand and second mind
+1. Prompt LLMs [here](1_exercise/prompt_LLMs.ipynb)
+2. Prompt LLMs [here](1_exercise/deploy_codellama_13B_tutorial.ipynb)
