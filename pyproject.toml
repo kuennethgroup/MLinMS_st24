@@ -10,6 +10,9 @@ dependencies = [
     "matplotlib>=3.8.4",
     "numpy>=1.26.4",
     "pandas>=2.2.2",
+    "wikipedia-api>=0.6.0",
+    "wordcloud>=1.9.3",
+    "scikit-learn>=1.4.2",
 ]
 requires-python = "==3.10.*"
 readme = "README.md"

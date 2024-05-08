@@ -26,3 +26,12 @@ Notes:
 2. Use LLMs to solve [here](1_exercise/evaluate_python_skills.ipynb)
 3. Continue: Prompt LLMs [here](1_exercise/prompt_LLMs.ipynb)
 4. More exercise [abcs](2_exercise/python_abcs.ipynb) and [xyzs](2_exercise/python_xyzs.ipynb)
+
+
+## Exercise 3
+
+1. Intro to sklearn and data [here](3_exercise/intro_data.ipynb)
+2. Scrape Wiki [here](3_exercise/wikipedia_api.ipynb)
+3. Outlier detection [here](3_exercise/intro_data.ipynb)
+4. HOMEWORK: Balance data [here](3_exercise/Balance_data_and_save.ipynb)
+5. More Python exercise [abcs](2_exercise/python_abcs.ipynb) and [xyzs](2_exercise/python_xyzs.ipynb)
