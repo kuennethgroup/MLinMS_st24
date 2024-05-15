@@ -35,3 +35,9 @@ Notes:
 3. Outlier detection [here](3_exercise/intro_data.ipynb)
 4. HOMEWORK: Balance data [here](3_exercise/Balance_data_and_save.ipynb)
 5. More Python exercise [abcs](2_exercise/python_abcs.ipynb) and [xyzs](2_exercise/python_xyzs.ipynb)
+
+## Exercise 3
+
+1. Fingerprint me 👣🤘 [here](4_exercise/fingerprints.ipynb)
+2. Synthesize data [here](4_exercise/synthesize-your-own-data.ipynb)
+3. More Python exercise [abcs](2_exercise/python_abcs.ipynb) and [xyzs](2_exercise/python_xyzs.ipynb)

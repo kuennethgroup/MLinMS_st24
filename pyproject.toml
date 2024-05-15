@@ -13,6 +13,9 @@ dependencies = [
     "wikipedia-api>=0.6.0",
     "wordcloud>=1.9.3",
     "scikit-learn>=1.4.2",
+    "torch>=2.3.0",
+    "psmiles[polyBERT] @ git+https://github.com/Ramprasad-Group/psmiles.git",
+    "sdv>=1.12.1",
 ]
 requires-python = "==3.10.*"
 readme = "README.md"
