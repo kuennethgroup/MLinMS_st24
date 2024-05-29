@@ -36,8 +36,15 @@ Notes:
 4. HOMEWORK: Balance data [here](3_exercise/Balance_data_and_save.ipynb)
 5. More Python exercise [abcs](2_exercise/python_abcs.ipynb) and [xyzs](2_exercise/python_xyzs.ipynb)
 
-## Exercise 3
+## Exercise 4
 
 1. Fingerprint me 👣🤘 [here](4_exercise/fingerprints.ipynb)
 2. Synthesize data [here](4_exercise/synthesize-your-own-data.ipynb)
 3. More Python exercise [abcs](2_exercise/python_abcs.ipynb) and [xyzs](2_exercise/python_xyzs.ipynb)
+
+## Exercise 5
+
+1. Step-by-step linear regression [here](5_exercise/step-by-step-linear-regression.ipynb)
+2. Synthesize your data for your project [here](4_exercise/synthesize-your-own-data.ipynb)
+3. AT HOME - N-DIM-TEN [here](5_exercise/AT_HOME_multi_dim_arrays.ipynb)
+
