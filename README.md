@@ -48,3 +48,9 @@ Notes:
 2. Synthesize your data for your project [here](4_exercise/synthesize-your-own-data.ipynb)
 3. AT HOME - N-DIM-TEN [here](5_exercise/AT_HOME_multi_dim_arrays.ipynb)
 
+## Exercise 6
+
+1. Synthesize your data for your project [here](4_exercise/synthesize-your-own-data.ipynb)
+1. AT HOME - Modify linear regression [here](6_exercise/AT_HOME.ipynb)
+
+
