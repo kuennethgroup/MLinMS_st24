@@ -59,3 +59,7 @@ Notes:
 1. Synthesize your data for your project [here](4_exercise/synthesize_your_own_data.ipynb)
 
 
+## Hackathon 1
+
+1. See folder 8_hackathon
+
