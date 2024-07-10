@@ -1,7 +1,8 @@
 # In coder
-# Run with `/home/your_name/.local/bin/streamlit  run deploy_transformer_streamlit.py`
+# Run with `pdm run streamlit run 9_hackathon_II/deploy_images.py`
 # Check your port (usually 8501). 
-# Use the PORTS tab in vscode to forward the port to localhost
+# Use the "PORTS" tab in VScode to forward the port to localhost and view it your local browser
+# OR use preview browser in VScode
 
 import streamlit as st
 from transformers import pipeline
