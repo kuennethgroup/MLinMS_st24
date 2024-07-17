@@ -67,3 +67,8 @@ Notes:
 
 1. See folder 9_hackathon_II
 
+## Exercise 10
+
+1. BO with AX [here](10_exercise/bo_with_ax.ipynb)
+2. Deploy a transformer from hugging face using streamlit [here](10_exercise/bo_with_ax.ipynb)
+3. Retrieval augmented generation with llama  [here](10_exercise/bo_with_ax.ipynb)

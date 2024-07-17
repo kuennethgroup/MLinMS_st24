@@ -22,6 +22,10 @@ dependencies = [
     "pandas>=2.2.2",
     "streamlit>=1.36.0",
     "lightning>=2.3.3",
+    "llama-index>=0.10.55",
+    "llama-index-readers-web>=0.1.23",
+    "llama-index-embeddings-huggingface>=0.2.2",
+    "llama-index-llms-llama-cpp>=0.1.4",
 ]
 requires-python = "==3.10.*"
 readme = "README.md"
